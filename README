@@ -1,0 +1,6 @@
+To run:
+	place the source code folder cen in the /var/www/html folder
+	restart LAMP
+	type localhost/cen/index.php
+	
+	
